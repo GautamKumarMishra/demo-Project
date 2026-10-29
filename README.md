@@ -1,5 +1,4 @@
 This is for learning purposes
-
-Updating file with few text
-
-New line
+This content wrtten to do merge request
+and analyze conflict
+This is just a demo for git
